@@ -126,5 +126,1137 @@
         "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
       }
     ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "easy",
+    "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton proposed the three laws of motion and was also a renowned mathematician."
+      },
+      {
+        "title": "Laws of Motion",
+        "text": "The laws of motion are three physical laws that, together, laid the foundation for classical mechanics."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "medium",
+    "question": "In which city was the architect of the Guggenheim Museum in Spain born?",
+    "gold_answer": "Toronto",
+    "context": [
+      {
+        "title": "Guggenheim Museum Bilbao",
+        "text": "The Guggenheim Museum in Spain was designed by Frank Gehry."
+      },
+      {
+        "title": "Frank Gehry",
+        "text": "Frank Gehry is a world-famous architect born in Toronto, Canada."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "hard",
+    "question": "What is the capital of the island nation where the dodo bird was once endemic?",
+    "gold_answer": "Port Louis",
+    "context": [
+      {
+        "title": "Dodo",
+        "text": "The dodo was an extinct flightless bird that was endemic to the island of Mauritius."
+      },
+      {
+        "title": "Mauritius",
+        "text": "Mauritius is an island nation in the Indian Ocean with its capital at Port Louis."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "medium",
+    "question": "Which chemical element was named after the country where Marie Curie was born?",
+    "gold_answer": "Polonium",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was born in Poland and was a pioneer in radioactivity."
+      },
+      {
+        "title": "Polonium",
+        "text": "Polonium is a chemical element named by Marie Curie after her native country, Poland."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "easy",
+    "question": "What is the primary language spoken in the country where the Great Pyramid of Giza is located?",
+    "gold_answer": "Arabic",
+    "context": [
+      {
+        "title": "Great Pyramid of Giza",
+        "text": "The Great Pyramid of Giza is located on the outskirts of Cairo, Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is a country in North Africa where the official language is Arabic."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "medium",
+    "question": "Who was the lead singer of the band that recorded 'Bohemian Rhapsody'?",
+    "gold_answer": "Freddie Mercury",
+    "context": [
+      {
+        "title": "Bohemian Rhapsody",
+        "text": "Bohemian Rhapsody is a song by the British rock band Queen."
+      },
+      {
+        "title": "Queen (band)",
+        "text": "The band Queen consisted of Freddie Mercury, Brian May, Roger Taylor, and John Deacon."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "hard",
+    "question": "Which sea is located to the east of the peninsula where the 1988 Summer Olympics were held?",
+    "gold_answer": "Sea of Japan",
+    "context": [
+      {
+        "title": "1988 Summer Olympics",
+        "text": "The 1988 Summer Olympics took place in Seoul, South Korea."
+      },
+      {
+        "title": "South Korea",
+        "text": "South Korea is on the Korean Peninsula, bordered by the Sea of Japan to the east."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "medium",
+    "question": "What is the official currency of the country where the Taj Mahal is located?",
+    "gold_answer": "Indian Rupee",
+    "context": [
+      { "title": "Taj Mahal", "text": "The Taj Mahal is an ivory-white marble mausoleum located in Agra, India." },
+      { "title": "India", "text": "India is a country in South Asia that uses the Indian Rupee as its currency." }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "easy",
+    "question": "Which planet is the Roman god of war named after?",
+    "gold_answer": "Mars",
+    "context": [
+      { "title": "Mars (god)", "text": "In ancient Roman religion, Mars was the god of war." },
+      { "title": "Mars (planet)", "text": "The planet Mars is named after the Roman god of war because of its reddish color." }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "hard",
+    "question": "What is the capital city of the nation that gifted the Statue of Liberty to the United States?",
+    "gold_answer": "Paris",
+    "context": [
+      { "title": "Statue of Liberty", "text": "The Statue of Liberty is a copper statue given as a gift from the people of France to the U.S." },
+      { "title": "France", "text": "France is a European nation whose capital and largest city is Paris." }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "medium",
+    "question": "What was the name of the ship that carried the naturalist who wrote On the Origin of Species?",
+    "gold_answer": "HMS Beagle",
+    "context": [
+      { "title": "Charles Darwin", "text": "Charles Darwin wrote On the Origin of Species and traveled on a famous five-year voyage." },
+      { "title": "HMS Beagle", "text": "HMS Beagle was the ship that Charles Darwin used for his scientific expeditions." }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "easy",
+    "question": "In which city is the painting Mona Lisa currently displayed?",
+    "gold_answer": "Paris",
+    "context": [
+      { "title": "Mona Lisa", "text": "The Mona Lisa is a portrait painted by Leonardo da Vinci, housed in the Louvre Museum." },
+      { "title": "Louvre Museum", "text": "The Louvre is the world's most-visited museum and is located in Paris, France." }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "medium",
+    "question": "Which desert is located in the country where the 2022 FIFA World Cup was held?",
+    "gold_answer": "Arabian Desert",
+    "context": [
+      { "title": "2022 FIFA World Cup", "text": "The 2022 FIFA World Cup was hosted by the country of Qatar." },
+      { "title": "Qatar", "text": "Qatar is located on the Qatar Peninsula within the larger Arabian Desert." }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "hard",
+    "question": "What is the tallest mountain in the range where the Incas built Machu Picchu?",
+    "gold_answer": "Aconcagua",
+    "context": [
+      { "title": "Machu Picchu", "text": "Machu Picchu is a 15th-century Inca citadel located in the Andes mountain range." },
+      { "title": "Andes", "text": "The Andes are the longest continental mountain range in the world, with Mount Aconcagua being its highest peak." }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "easy",
+    "question": "What type of animal is the character who stars in the movie 'The Lion King'?",
+    "gold_answer": "Lion",
+    "context": [
+      { "title": "The Lion King", "text": "The Lion King is a Disney film following the story of a young character named Simba." },
+      { "title": "Simba", "text": "Simba is a fictional lion who eventually becomes the King of the Pride Lands." }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "medium",
+    "question": "Which scientist discovered the element that has the atomic number 88?",
+    "gold_answer": "Marie Curie",
+    "context": [
+      { "title": "Radium", "text": "Radium is a chemical element with the atomic number 88." },
+      { "title": "Discovery of Radium", "text": "Radium was discovered by Marie Curie and her husband Pierre Curie in 1898." }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "hard",
+    "question": "In what year did the wall that divided the city where the Brandenburg Gate is located fall?",
+    "gold_answer": "1989",
+    "context": [
+      { "title": "Brandenburg Gate", "text": "The Brandenburg Gate is an 18th-century monument in Berlin." },
+      { "title": "Berlin Wall", "text": "The Berlin Wall divided the city of Berlin until it was opened in 1989." }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "medium",
+    "question": "Which planet is known as the 'Red Planet' and has two moons named Phobos and Deimos?",
+    "gold_answer": "Mars",
+    "context": [
+      { "title": "Red Planet", "text": "Mars is often referred to as the 'Red Planet' due to its iron oxide surface." },
+      { "title": "Moons of Mars", "text": "Mars has two small natural satellites, Phobos and Deimos." }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "easy",
+    "question": "Which language was spoken by the playwright who wrote 'Romeo and Juliet'?",
+    "gold_answer": "English",
+    "context": [
+      { "title": "Romeo and Juliet", "text": "Romeo and Juliet is a tragedy written by William Shakespeare." },
+      { "title": "William Shakespeare", "text": "William Shakespeare was an English playwright, poet, and actor." }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "hard",
+    "question": "What is the largest island in the country that contains the Great Barrier Reef?",
+    "gold_answer": "Tasmania",
+    "context": [
+      { "title": "Great Barrier Reef", "text": "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Australia." },
+      { "title": "Australia", "text": "Australia is a country and continent; its largest island by state area is Tasmania." }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "medium",
+    "question": "Who was the president of the United States during the American Civil War?",
+    "gold_answer": "Abraham Lincoln",
+    "context": [
+      { "title": "American Civil War", "text": "The American Civil War was fought from 1861 to 1865 in the United States." },
+      { "title": "Abraham Lincoln", "text": "Abraham Lincoln served as the 16th president of the United States during the Civil War." }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "easy",
+    "question": "What is the boiling point of the substance that makes up most of the Earth's oceans?",
+    "gold_answer": "100 degrees Celsius",
+    "context": [
+      { "title": "Ocean", "text": "Earth's oceans are primarily composed of water." },
+      { "title": "Water", "text": "Water is a chemical substance that boils at 100 degrees Celsius at sea level." }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "medium",
+    "question": "Which continent contains the country where the Nile River ends?",
+    "gold_answer": "Africa",
+    "context": [
+      { "title": "Nile River", "text": "The Nile River flows through several countries before emptying into the Mediterranean Sea in Egypt." },
+      { "title": "Egypt", "text": "Egypt is a transcontinental country mainly located in the northeast corner of Africa." }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "hard",
+    "question": "What is the name of the galaxy that contains our Solar System?",
+    "gold_answer": "Milky Way",
+    "context": [
+      { "title": "Solar System", "text": "The Solar System consists of the Sun and the objects that orbit it." },
+      { "title": "Galaxy", "text": "Our Solar System is located within the Milky Way galaxy." }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "easy",
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "gold_answer": "Michelangelo",
+    "context": [
+      { "title": "Sistine Chapel", "text": "The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the pope." },
+      { "title": "Michelangelo", "text": "Michelangelo was an Italian sculptor and painter who painted the Sistine Chapel ceiling." }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "medium",
+    "question": "Which country is the home of the inventor of the telephone?",
+    "gold_answer": "Scotland",
+    "context": [
+      { "title": "Alexander Graham Bell", "text": "Alexander Graham Bell is widely credited with inventing the first practical telephone." },
+      { "title": "Origin of Bell", "text": "Alexander Graham Bell was born in Edinburgh, Scotland, before moving to Canada and the U.S." }
+    ]
+  },
+  {
+    "qid" : "hp31",
+    "difficulty" : "medium",
+    "question" : "Which country is the home of the company that produces the iPhone?",
+    "gold_answer" : "United States",
+    "context" : [
+      { "title" : "iPhone", "text" : "The iPhone is a line of smartphones designed and marketed by Apple Inc." },
+      { "title" : "Apple Inc.", "text" : "Apple Inc. is an American multinational technology company headquartered in Cupertino, California." }
+    ]
+  },
+  {
+    "qid" : "hp32",
+    "difficulty" : "easy",
+    "question" : "What is the capital of the country where the Eiffel Tower is located?",
+    "gold_answer" : "Paris",
+    "context" : [
+      { "title" : "Eiffel Tower", "text" : "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France." },
+      { "title" : "France", "text" : "France is a country in Europe whose capital city is Paris." }
+    ]
+  },
+  {
+    "qid" : "hp33",
+    "difficulty" : "medium",
+    "question" : "What is the nationality of the author of the Harry Potter series?",
+    "gold_answer" : "British",
+    "context" : [
+      { "title" : "Harry Potter", "text" : "Harry Potter is a series of fantasy novels written by J. K. Rowling." },
+      { "title" : "J. K. Rowling", "text" : "J. K. Rowling is a British author and philanthropist." }
+    ]
+  },
+  {
+    "qid" : "hp34",
+    "difficulty" : "hard",
+    "question" : "What sea borders the country where the ancient city of Petra is located?",
+    "gold_answer" : "Red Sea",
+    "context" : [
+      { "title" : "Petra", "text" : "Petra is a historic and archaeological city in southern Jordan." },
+      { "title" : "Jordan", "text" : "Jordan is an Arab country on the East Bank of the Jordan River, bordering the Red Sea." }
+    ]
+  },
+  {
+    "qid" : "hp35",
+    "difficulty" : "easy",
+    "question" : "In which city is the headquarters of the United Nations located?",
+    "gold_answer" : "New York City",
+    "context" : [
+      { "title" : "United Nations", "text" : "The United Nations (UN) is an intergovernmental organization with headquarters in New York." },
+      { "title" : "New York City", "text" : "New York City is the most populous city in the United States." }
+    ]
+  },
+  {
+    "qid" : "hp36",
+    "difficulty" : "medium",
+    "question" : "Which mountain range is home to the country that shares a border with both China and India?",
+    "gold_answer" : "Himalayas",
+    "context" : [
+      { "title" : "Nepal", "text" : "Nepal is a landlocked country in South Asia, bordering China and India." },
+      { "title" : "Himalayas", "text" : "The Himalayas is a mountain range in Asia, separating the plains of the Indian subcontinent from the Tibetan Plateau." }
+    ]
+  },
+  {
+    "qid" : "hp37",
+    "difficulty" : "easy",
+    "question" : "What kind of fruit is the subject of the painting 'The Son of Man'?",
+    "gold_answer" : "apple",
+    "context" : [
+      { "title" : "The Son of Man", "text" : "The Son of Man is a 1964 painting by the Belgian surrealist painter René Magritte featuring a man with a green apple in front of his face." },
+      { "title" : "René Magritte", "text" : "René Magritte was a Belgian surrealist artist known for his witty and thought-provoking images." }
+    ]
+  },
+  {
+    "qid" : "hp38",
+    "difficulty" : "medium",
+    "question" : "Which artist painted 'The Starry Night' and also cut off his own ear?",
+    "gold_answer" : "Vincent van Gogh",
+    "context" : [
+      { "title" : "The Starry Night", "text" : "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh." },
+      { "title" : "Vincent van Gogh", "text" : "Vincent van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art." }
+    ]
+  },
+  {
+    "qid" : "hp39",
+    "difficulty" : "hard",
+    "question" : "What is the capital of the country where the Amazon River originates?",
+    "gold_answer" : "Lima",
+    "context" : [
+      { "title" : "Amazon River", "text" : "The Amazon River in South America is the largest river by discharge volume of water in the world and originates in Peru." },
+      { "title" : "Peru", "text" : "Peru is a country in western South America with its capital in Lima." }
+    ]
+  },
+  {
+    "qid" : "hp40",
+    "difficulty" : "easy",
+    "question" : "What sport is played in the tournament known as the Wimbledon Championships?",
+    "gold_answer" : "tennis",
+    "context" : [
+      { "title" : "Wimbledon Championships", "text" : "The Championships, Wimbledon, commonly known simply as Wimbledon, is the oldest tennis tournament in the world." },
+      { "title" : "Tennis", "text" : "Tennis is a racket sport that is played individually against a single opponent or between two teams of two players each." }
+    ]
+  },
+  {
+    "qid" : "hp41",
+    "difficulty" : "medium",
+    "question" : "Who was the first woman to win a Nobel Prize?",
+    "gold_answer" : "Marie Curie",
+    "context" : [
+      { "title" : "Nobel Prize", "text" : "The Nobel Prize is a set of annual international awards bestowed in several categories by Swedish and Norwegian institutions." },
+      { "title" : "Marie Curie", "text" : "Marie Curie was the first woman to win a Nobel Prize, the first person to win twice, and the only person to win a Nobel Prize in two different sciences." }
+    ]
+  },
+  {
+    "qid" : "hp42",
+    "difficulty" : "hard",
+    "question" : "What is the name of the strait that separates Asia from North America?",
+    "gold_answer" : "Bering Strait",
+    "context" : [
+      { "title" : "Bering Strait", "text" : "The Bering Strait is a strait of the Pacific Ocean, which separates Russia and the United States." },
+      { "title" : "Continents", "text" : "Russia is part of Asia, and the United States is part of North America." }
+    ]
+  },
+  {
+    "qid" : "hp43",
+    "difficulty" : "easy",
+    "question" : "What animal is the national symbol of the United States?",
+    "gold_answer" : "bald eagle",
+    "context" : [
+      { "title" : "Bald eagle", "text" : "The bald eagle is a bird of prey found in North America and is the national bird of the United States." },
+      { "title" : "United States", "text" : "The United States of America is a country primarily located in North America." }
+    ]
+  },
+  {
+    "qid" : "hp44",
+    "difficulty" : "medium",
+    "question" : "Which scientist developed the theory of relativity?",
+    "gold_answer" : "Albert Einstein",
+    "context" : [
+      { "title" : "Theory of relativity", "text" : "The theory of relativity usually encompasses two interrelated theories by Albert Einstein: special relativity and general relativity." },
+      { "title" : "Albert Einstein", "text" : "Albert Einstein was a German-born theoretical physicist who developed the theory of relativity." }
+    ]
+  },
+  {
+    "qid" : "hp45",
+    "difficulty" : "hard",
+    "question" : "What is the longest river in the world?",
+    "gold_answer" : "Nile",
+    "context" : [
+      { "title" : "Nile", "text" : "The Nile is a major north-flowing river in northeastern Africa and is generally regarded as the longest river in the world." },
+      { "title" : "River", "text" : "A river is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river." }
+    ]
+  },
+  {
+    "qid" : "hp46",
+    "difficulty" : "easy",
+    "question" : "What language do people speak in Brazil?",
+    "gold_answer" : "Portuguese",
+    "context" : [
+      { "title" : "Brazil", "text" : "Brazil is the largest country in both South America and Latin America." },
+      { "title" : "Portuguese language", "text" : "Portuguese is the official and most widely spoken language in Brazil." }
+    ]
+  },
+  {
+    "qid" : "hp47",
+    "difficulty" : "medium",
+    "question" : "Who wrote the play 'Hamlet'?",
+    "gold_answer" : "William Shakespeare",
+    "context" : [
+      { "title" : "Hamlet", "text" : "The Tragedy of Hamlet, Prince of Denmark, often shortened to Hamlet, is a tragedy written by William Shakespeare." },
+      { "title" : "William Shakespeare", "text" : "William Shakespeare was an English playwright, poet, and actor." }
+    ]
+  },
+  {
+    "qid" : "hp48",
+    "difficulty" : "hard",
+    "question" : "What is the largest desert in the world?",
+    "gold_answer" : "Antarctic Desert",
+    "context" : [
+      { "title" : "Antarctic Desert", "text" : "The Antarctic Desert is the largest desert in the world, covering the continent of Antarctica." },
+      { "title" : "Desert", "text" : "A desert is a barren area of landscape where little precipitation occurs and, consequently, living conditions are hostile for plant and animal life." }
+    ]
+  },
+  {
+    "qid" : "hp49",
+    "difficulty" : "easy",
+    "question" : "What is the name of the fairy tale character who loses her glass slipper?",
+    "gold_answer" : "Cinderella",
+    "context" : [
+      { "title" : "Cinderella", "text" : "Cinderella is a folk tale about a young woman living in unfortunate circumstances that are suddenly changed to remarkable fortune." },
+      { "title" : "Glass slipper", "text" : "In the story of Cinderella, she loses a glass slipper while leaving a royal ball." }
+    ]
+  },
+  {
+    "qid" : "hp50",
+    "difficulty" : "medium",
+    "question" : "Which planet is the largest in our solar system?",
+    "gold_answer" : "Jupiter",
+    "context" : [
+      { "title" : "Jupiter", "text" : "Jupiter is the fifth planet from the Sun and the largest in the Solar System." },
+      { "title" : "Solar System", "text" : "The Solar System is the gravitationally bound system of the Sun and the objects that orbit it." }
+    ]
+  },
+  {
+    "qid" : "hp51",
+    "difficulty" : "hard",
+    "question" : "What is the smallest country in the world by area?",
+    "gold_answer" : "Vatican City",
+    "context" : [
+      { "title" : "Vatican City", "text" : "Vatican City is an independent city-state enclaved within Rome, Italy." },
+      { "title" : "Country", "text" : "Vatican City is the smallest country in the world by both area and population." }
+    ]
+  },
+  {
+    "qid" : "hp52",
+    "difficulty" : "easy",
+    "question" : "What is the main ingredient in hummus?",
+    "gold_answer" : "chickpeas",
+    "context" : [
+      { "title" : "Hummus", "text" : "Hummus is a Middle Eastern dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic." },
+      { "title" : "Chickpea", "text" : "The chickpea or chick pea is an annual legume of the family Fabaceae." }
+    ]
+  },
+  {
+    "qid" : "hp53",
+    "difficulty" : "medium",
+    "question" : "Who painted the 'Mona Lisa'?",
+    "gold_answer" : "Leonardo da Vinci",
+    "context" : [
+      { "title" : "Mona Lisa", "text" : "The Mona Lisa is a half-length portrait painting by Italian artist Leonardo da Vinci." },
+      { "title" : "Leonardo da Vinci", "text" : "Leonardo da Vinci was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect." }
+    ]
+  },
+  {
+    "qid" : "hp54",
+    "difficulty" : "hard",
+    "question" : "What is the largest ocean on Earth?",
+    "gold_answer" : "Pacific Ocean",
+    "context" : [
+      { "title" : "Pacific Ocean", "text" : "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions." },
+      { "title" : "Ocean", "text" : "An ocean is a body of water that composes much of a planet's hydrosphere." }
+    ]
+  },
+  {
+    "qid" : "hp55",
+    "difficulty" : "easy",
+    "question" : "What is the currency used in Japan?",
+    "gold_answer" : "Yen",
+    "context" : [
+      { "title" : "Japan", "text" : "Japan is an island country in East Asia." },
+      { "title" : "Japanese yen", "text" : "The yen is the official currency of Japan." }
+    ]
+  },
+  {
+    "qid" : "hp56",
+    "difficulty" : "medium",
+    "question" : "What is the name of the ship that sank in 1912 on its maiden voyage?",
+    "gold_answer" : "Titanic",
+    "context" : [
+      { "title" : "RMS Titanic", "text" : "The RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in 1912." },
+      { "title" : "Maiden voyage", "text" : "A maiden voyage is the first journey made by a craft after its commissioning." }
+    ]
+  },
+  {
+    "qid" : "hp57",
+    "difficulty" : "hard",
+    "question" : "In which city was the composer of the 'Moonlight Sonata' born?",
+    "gold_answer" : "Bonn",
+    "context" : [
+      { "title" : "Moonlight Sonata", "text" : "The Piano Sonata No. 14, popularly known as the Moonlight Sonata, was composed by Ludwig van Beethoven." },
+      { "title" : "Ludwig van Beethoven", "text" : "Ludwig van Beethoven was a German composer born in the city of Bonn." }
+    ]
+  },
+  {
+    "qid" : "hp58",
+    "difficulty" : "easy",
+    "question" : "What is the fastest land animal?",
+    "gold_answer" : "cheetah",
+    "context" : [
+      { "title" : "Cheetah", "text" : "The cheetah is a large cat and the fastest land animal, capable of reaching speeds over 100 km/h." },
+      { "title" : "Land animal", "text" : "Land animals are animals that live predominantly or entirely on land." }
+    ]
+  },
+  {
+    "qid" : "hp59",
+    "difficulty" : "medium",
+    "question" : "Which scientist developed the laws of planetary motion?",
+    "gold_answer" : "Johannes Kepler",
+    "context" : [
+      { "title" : "Kepler's laws of planetary motion", "text" : "In astronomy, Kepler's laws of planetary motion are three scientific laws describing the orbits of planets around the Sun." },
+      { "title" : "Johannes Kepler", "text" : "Johannes Kepler was a German astronomer and mathematician who discovered the laws of planetary motion." }
+    ]
+  },
+  {
+    "qid" : "hp60",
+    "difficulty" : "hard",
+    "question" : "What is the capital of the country that borders Portugal to the east?",
+    "gold_answer" : "Madrid",
+    "context" : [
+      { "title" : "Portugal", "text" : "Portugal is a country located on the Iberian Peninsula, bordering Spain to the east and north." },
+      { "title" : "Spain", "text" : "Spain is a country in Southwestern Europe whose capital and largest city is Madrid." }
+    ]
+  },
+  {
+    "qid" : "hp61",
+    "difficulty" : "easy",
+    "question" : "Which organ in the human body is responsible for pumping blood?",
+    "gold_answer" : "heart",
+    "context" : [
+      { "title" : "Heart", "text" : "The heart is a muscular organ in most animals, which pumps blood through the blood vessels of the circulatory system." },
+      { "title" : "Blood", "text" : "Blood is a body fluid in humans and other animals that delivers necessary substances to the cells." }
+    ]
+  },
+  {
+    "qid" : "hp62",
+    "difficulty" : "medium",
+    "question" : "Who wrote the novel '1984'?",
+    "gold_answer" : "George Orwell",
+    "context" : [
+      { "title" : "1984 (novel)", "text" : "Nineteen Eighty-Four is a dystopian social science fiction novel by English novelist George Orwell." },
+      { "title" : "George Orwell", "text" : "George Orwell was an English novelist, essayist, journalist, and critic." }
+    ]
+  },
+  {
+    "qid" : "hp63",
+    "difficulty" : "hard",
+    "question" : "What is the name of the chemical process by which plants make their own food?",
+    "gold_answer" : "photosynthesis",
+    "context" : [
+      { "title" : "Photosynthesis", "text" : "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy." },
+      { "title" : "Plant", "text" : "Plants are mainly multicellular, predominantly photosynthetic eukaryotes of the kingdom Plantae." }
+    ]
+  },
+  {
+    "qid" : "hp64",
+    "difficulty" : "easy",
+    "question" : "Which planet is known as the Morning Star?",
+    "gold_answer" : "Venus",
+    "context" : [
+      { "title" : "Venus", "text" : "Venus is the second planet from the Sun and is often called the Morning Star or Evening Star." },
+      { "title" : "Morning Star", "text" : "The Morning Star is a name given to the planet Venus when it appears in the east before sunrise." }
+    ]
+  },
+  {
+    "qid" : "hp65",
+    "difficulty" : "medium",
+    "question" : "Who was the first person to walk on the moon?",
+    "gold_answer" : "Neil Armstrong",
+    "context" : [
+      { "title" : "Apollo 11", "text" : "Apollo 11 was the spaceflight that first landed humans on the Moon." },
+      { "title" : "Neil Armstrong", "text" : "Neil Armstrong was an American astronaut and aeronautical engineer who became the first person to walk on the Moon." }
+    ]
+  },
+  {
+    "qid" : "hp66",
+    "difficulty" : "hard",
+    "question" : "Which city hosted the first modern Olympic Games in 1896?",
+    "gold_answer" : "Athens",
+    "context" : [
+      { "title" : "1896 Summer Olympics", "text" : "The 1896 Summer Olympics was the first international Olympic Games held in modern history." },
+      { "title" : "Athens", "text" : "The 1896 Summer Olympics were held in Athens, Greece." }
+    ]
+  },
+  {
+    "qid" : "hp67",
+    "difficulty" : "easy",
+    "question" : "What is the hardest natural substance on Earth?",
+    "gold_answer" : "diamond",
+    "context" : [
+      { "title" : "Diamond", "text" : "Diamond is a solid form of the element carbon and is the hardest natural substance found on Earth." },
+      { "title" : "Carbon", "text" : "Carbon is a chemical element with the symbol C and atomic number 6." }
+    ]
+  },
+  {
+    "qid" : "hp68",
+    "difficulty" : "medium",
+    "question" : "Who is the creator of the 'Star Wars' franchise?",
+    "gold_answer" : "George Lucas",
+    "context" : [
+      { "title" : "Star Wars", "text" : "Star Wars is an American epic space-opera media franchise created by George Lucas." },
+      { "title" : "George Lucas", "text" : "George Lucas is an American film director, producer, screenwriter, and entrepreneur." }
+    ]
+  },
+  {
+    "qid" : "hp69",
+    "difficulty" : "hard",
+    "question" : "What is the capital of Australia?",
+    "gold_answer" : "Canberra",
+    "context" : [
+      { "title" : "Australia", "text" : "Australia is a sovereign country comprising the mainland of the Australian continent." },
+      { "title" : "Canberra", "text" : "Canberra is the capital city of Australia." }
+    ]
+  },
+  {
+    "qid" : "hp70",
+    "difficulty" : "easy",
+    "question" : "Which gas do humans need to breathe to survive?",
+    "gold_answer" : "oxygen",
+    "context" : [
+      { "title" : "Oxygen", "text" : "Oxygen is the chemical element with the symbol O and atomic number 8, essential for human respiration." },
+      { "title" : "Respiration", "text" : "Respiration is the movement of oxygen from the outside environment to the cells within tissues." }
+    ]
+  },
+  {
+    "qid" : "hp71",
+    "difficulty" : "medium",
+    "question" : "Who painted 'The Last Supper'?",
+    "gold_answer" : "Leonardo da Vinci",
+    "context" : [
+      { "title" : "The Last Supper (Leonardo)", "text" : "The Last Supper is a late 15th-century mural painting by Italian artist Leonardo da Vinci." },
+      { "title" : "Mural", "text" : "A mural is any piece of artwork painted or applied directly on a wall, ceiling or other permanent surface." }
+    ]
+  },
+  {
+    "qid" : "hp72",
+    "difficulty" : "hard",
+    "question" : "What is the largest country in the world by land area?",
+    "gold_answer" : "Russia",
+    "context" : [
+      { "title" : "Russia", "text" : "Russia is a country spanning Eastern Europe and Northern Asia and is the largest country in the world by area." },
+      { "title" : "Area", "text" : "Area is the quantity that expresses the extent of a two-dimensional region, shape, or planar lamina." }
+    ]
+  },
+  {
+    "qid" : "hp73",
+    "difficulty" : "easy",
+    "question" : "What is the tallest building in the world?",
+    "gold_answer" : "Burj Khalifa",
+    "context" : [
+      { "title" : "Burj Khalifa", "text" : "The Burj Khalifa is a skyscraper in Dubai, United Arab Emirates, and is currently the world's tallest structure." },
+      { "title" : "Skyscraper", "text" : "A skyscraper is a tall continuously habitable building having multiple floors." }
+    ]
+  },
+  {
+    "qid" : "hp74",
+    "difficulty" : "medium",
+    "question" : "Who was the first female Prime Minister of the United Kingdom?",
+    "gold_answer" : "Margaret Thatcher",
+    "context" : [
+      { "title" : "Prime Minister of the United Kingdom", "text" : "The Prime Minister of the United Kingdom is the head of government of the United Kingdom." },
+      { "title" : "Margaret Thatcher", "text" : "Margaret Thatcher was a British stateswoman who served as Prime Minister of the United Kingdom from 1979 to 1990." }
+    ]
+  },
+  {
+    "qid" : "hp75",
+    "difficulty" : "hard",
+    "question" : "In which country can you find the ancient ruins of Chichen Itza?",
+    "gold_answer" : "Mexico",
+    "context" : [
+      { "title" : "Chichen Itza", "text" : "Chichen Itza was a large pre-Columbian city built by the Maya people." },
+      { "title" : "Mexico", "text" : "Mexico is a country in the southern portion of North America where Chichen Itza is located." }
+    ]
+  },
+  {
+    "qid" : "hp76",
+    "difficulty" : "easy",
+    "question" : "Which instrument has 88 keys?",
+    "gold_answer" : "piano",
+    "context" : [
+      { "title" : "Piano", "text" : "The piano is a stringed keyboard instrument in which the strings are struck by wooden hammers." },
+      { "title" : "Keyboard", "text" : "A standard modern piano contains 88 keys, 52 white and 36 black." }
+    ]
+  },
+  {
+    "qid" : "hp77",
+    "difficulty" : "medium",
+    "question" : "Who wrote 'The Great Gatsby'?",
+    "gold_answer" : "F. Scott Fitzgerald",
+    "context" : [
+      { "title" : "The Great Gatsby", "text" : "The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald." },
+      { "title" : "F. Scott Fitzgerald", "text" : "F. Scott Fitzgerald was an American novelist and short story writer." }
+    ]
+  },
+  {
+    "qid" : "hp78",
+    "difficulty" : "hard",
+    "question" : "What is the chemical symbol for gold?",
+    "gold_answer" : "Au",
+    "context" : [
+      { "title" : "Gold", "text" : "Gold is a chemical element with the symbol Au and atomic number 79." },
+      { "title" : "Chemical symbol", "text" : "A chemical symbol is a notation of one or two letters representing a chemical element." }
+    ]
+  },
+  {
+    "qid" : "hp79",
+    "difficulty" : "easy",
+    "question" : "What is the primary color of an emerald?",
+    "gold_answer" : "green",
+    "context" : [
+      { "title" : "Emerald", "text" : "Emerald is a gemstone and a variety of the mineral beryl, colored green by trace amounts of chromium." },
+      { "title" : "Gemstone", "text" : "A gemstone is a piece of mineral crystal which, in cut and polished form, is used to make jewelry." }
+    ]
+  },
+  {
+    "qid" : "hp80",
+    "difficulty" : "medium",
+    "question" : "Who discovered penicillin?",
+    "gold_answer" : "Alexander Fleming",
+    "context" : [
+      { "title" : "Penicillin", "text" : "Penicillin is a group of antibiotics originally obtained from Penicillium moulds." },
+      { "title" : "Alexander Fleming", "text" : "Sir Alexander Fleming was a Scottish physician and microbiologist, best known for discovering penicillin." }
+    ]
+  },
+{
+    "qid" : "hp81",
+    "difficulty" : "hard",
+    "question" : "What is the capital of the country where the Nobel Peace Prize is awarded?",
+    "gold_answer" : "Oslo",
+    "context" : [
+      { "title" : "Nobel Peace Prize", "text" : "The Nobel Peace Prize is one of the five Nobel Prizes, and it is awarded annually in Norway." },
+      { "title" : "Norway", "text" : "Norway is a Nordic country whose capital and most populous city is Oslo." }
+    ]
+  },
+  {
+    "qid" : "hp82",
+    "difficulty" : "medium",
+    "question" : "In which city is the headquarters of the European Union located?",
+    "gold_answer" : "Brussels",
+    "context" : [
+      { "title" : "European Union", "text" : "The European Union (EU) is a political and economic union of 27 member states, with its de facto capital in Brussels." },
+      { "title" : "Brussels", "text" : "Brussels is the capital of Belgium and the administrative center of the European Union." }
+    ]
+  },
+  {
+    "qid" : "hp83",
+    "difficulty" : "easy",
+    "question" : "What is the longest bone in the human body?",
+    "gold_answer" : "femur",
+    "context" : [
+      { "title" : "Femur", "text" : "The femur, or thigh bone, is the most proximal bone of the leg and the longest in the human body." },
+      { "title" : "Skeletal system", "text" : "The human skeletal system provides structure and protection for the body's organs." }
+    ]
+  },
+  {
+    "qid" : "hp84",
+    "difficulty" : "medium",
+    "question" : "Who wrote the diary describing life during the Nazi occupation of the Netherlands?",
+    "gold_answer" : "Anne Frank",
+    "context" : [
+      { "title" : "The Diary of a Young Girl", "text" : "The Diary of a Young Girl is a book of the writings from the Dutch-language diary kept by Anne Frank." },
+      { "title" : "Anne Frank", "text" : "Anne Frank was a German-Dutch diarist of Jewish heritage who hid from the Nazis in Amsterdam." }
+    ]
+  },
+  {
+    "qid" : "hp85",
+    "difficulty" : "hard",
+    "question" : "What is the largest moon of the planet Saturn?",
+    "gold_answer" : "Titan",
+    "context" : [
+      { "title" : "Saturn", "text" : "Saturn is the sixth planet from the Sun and the second-largest in the Solar System." },
+      { "title" : "Titan (moon)", "text" : "Titan is the largest moon of Saturn and the second-largest natural satellite in the Solar System." }
+    ]
+  },
+  {
+    "qid" : "hp86",
+    "difficulty" : "easy",
+    "question" : "What is the capital of Italy?",
+    "gold_answer" : "Rome",
+    "context" : [
+      { "title" : "Italy", "text" : "Italy is a country in Southern Europe, known for its rich history and culture." },
+      { "title" : "Rome", "text" : "Rome is the capital city of Italy and also the capital of the Lazio region." }
+    ]
+  },
+  {
+    "qid" : "hp87",
+    "difficulty" : "medium",
+    "question" : "Which scientist is famous for the discovery of gravity after seeing an apple fall?",
+    "gold_answer" : "Isaac Newton",
+    "context" : [
+      { "title" : "Gravity", "text" : "Gravity is a fundamental interaction which causes mutual attraction between all things with mass or energy." },
+      { "title" : "Isaac Newton", "text" : "Sir Isaac Newton was an English mathematician and physicist who formulated the laws of motion and universal gravitation." }
+    ]
+  },
+  {
+    "qid" : "hp88",
+    "difficulty" : "hard",
+    "question" : "Which mountain is the second highest in the world after Mount Everest?",
+    "gold_answer" : "K2",
+    "context" : [
+      { "title" : "Mount Everest", "text" : "Mount Everest is Earth's highest mountain above sea level." },
+      { "title" : "K2", "text" : "K2, at 8,611 metres above sea level, is the second-highest mountain on Earth." }
+    ]
+  },
+  {
+    "qid" : "hp89",
+    "difficulty" : "easy",
+    "question" : "What color are the stars on the flag of the United States?",
+    "gold_answer" : "white",
+    "context" : [
+      { "title" : "Flag of the United States", "text" : "The flag of the United States consists of thirteen horizontal stripes and fifty white stars on a blue background." },
+      { "title" : "Stars and Stripes", "text" : "The stars on the American flag represent the 50 states of the Union." }
+    ]
+  },
+  {
+    "qid" : "hp90",
+    "difficulty" : "medium",
+    "question" : "Who was the primary author of the United States Declaration of Independence?",
+    "gold_answer" : "Thomas Jefferson",
+    "context" : [
+      { "title" : "Declaration of Independence", "text" : "The United States Declaration of Independence was the pronouncement adopted by the Second Continental Congress meeting in Philadelphia in 1776." },
+      { "title" : "Thomas Jefferson", "text" : "Thomas Jefferson was an American statesman and the principal author of the Declaration of Independence." }
+    ]
+  },
+  {
+    "qid" : "hp91",
+    "difficulty" : "hard",
+    "question" : "In which country is the Burj Al Arab hotel located?",
+    "gold_answer" : "United Arab Emirates",
+    "context" : [
+      { "title" : "Burj Al Arab", "text" : "The Burj Al Arab is a luxury hotel located in the city of Dubai." },
+      { "title" : "Dubai", "text" : "Dubai is the most populous city in the United Arab Emirates (UAE)." }
+    ]
+  },
+  {
+    "qid" : "hp92",
+    "difficulty" : "easy",
+    "question" : "What is the primary gas found in the Earth's atmosphere?",
+    "gold_answer" : "nitrogen",
+    "context" : [
+      { "title" : "Atmosphere of Earth", "text" : "The Earth's atmosphere is composed of several gases, with nitrogen being the most abundant." },
+      { "title" : "Nitrogen", "text" : "Nitrogen makes up about 78% of the Earth's atmosphere by volume." }
+    ]
+  },
+  {
+    "qid" : "hp93",
+    "difficulty" : "medium",
+    "question" : "Which Greek hero is known for his 12 labors?",
+    "gold_answer" : "Heracles",
+    "context" : [
+      { "title" : "Labours of Hercules", "text" : "The Twelve Labours of Heracles are a series of episodes concerning a penance carried out by Heracles." },
+      { "title" : "Heracles", "text" : "Heracles was a divine hero in Greek mythology, the son of Zeus and Alcmene." }
+    ]
+  },
+  {
+    "qid" : "hp94",
+    "difficulty" : "hard",
+    "question" : "What is the currency of the country where the Great Wall is located?",
+    "gold_answer" : "Renminbi",
+    "context" : [
+      { "title" : "Great Wall of China", "text" : "The Great Wall of China is a series of fortifications built across the historical northern borders of ancient Chinese states." },
+      { "title" : "China", "text" : "The official currency of the People's Republic of China is the Renminbi, often referred to as the yuan." }
+    ]
+  },
+  {
+    "qid" : "hp95",
+    "difficulty" : "easy",
+    "question" : "What is the capital of Germany?",
+    "gold_answer" : "Berlin",
+    "context" : [
+      { "title" : "Germany", "text" : "Germany is a country in Central Europe with a rich history and strong economy." },
+      { "title" : "Berlin", "text" : "Berlin is the capital and largest city of Germany by both area and population." }
+    ]
+  },
+  {
+    "qid" : "hp96",
+    "difficulty" : "medium",
+    "question" : "Who is known as the 'Father of Modern Physics'?",
+    "gold_answer" : "Albert Einstein",
+    "context" : [
+      { "title" : "Modern Physics", "text" : "Modern physics is a branch of physics that developed in the early 20th century." },
+      { "title" : "Albert Einstein", "text" : "Albert Einstein is often regarded as the father of modern physics for his work on relativity and the photoelectric effect." }
+    ]
+  },
+  {
+    "qid" : "hp97",
+    "difficulty" : "hard",
+    "question" : "What is the capital of the country where the Nobel Prize originated?",
+    "gold_answer" : "Stockholm",
+    "context" : [
+      { "title" : "Nobel Prize", "text" : "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will, are awarded to those who have conferred the greatest benefit to humankind." },
+      { "title" : "Sweden", "text" : "Sweden is a Nordic country in Scandinavia where Alfred Nobel was born and where most Nobel Prizes are awarded in its capital, Stockholm." }
+    ]
+  },
+  {
+    "qid" : "hp98",
+    "difficulty" : "easy",
+    "question" : "Which planet is third from the Sun?",
+    "gold_answer" : "Earth",
+    "context" : [
+      { "title" : "Earth", "text" : "Earth is the third planet from the Sun and the only astronomical object known to harbor life." },
+      { "title" : "Solar System", "text" : "The Sun is at the center of our Solar System, with planets orbiting around it." }
+    ]
+  },
+  {
+    "qid" : "hp99",
+    "difficulty" : "medium",
+    "question" : "Which treaty ended World War I?",
+    "gold_answer" : "Treaty of Versailles",
+    "context" : [
+      { "title" : "World War I", "text" : "World War I was a global war that lasted from 1914 to 1918." },
+      { "title" : "Treaty of Versailles", "text" : "The Treaty of Versailles was the most important of the peace treaties that brought World War I to an end." }
+    ]
+  },
+  {
+    "qid" : "hp100",
+    "difficulty" : "hard",
+    "question" : "What is the chemical element with the symbol 'Fe'?",
+    "gold_answer" : "iron",
+    "context" : [
+      { "title" : "Iron", "text" : "Iron is a chemical element with the symbol Fe and atomic number 26." },
+      { "title" : "Periodic Table", "text" : "The periodic table is a tabular display of the chemical elements, which are arranged by atomic number." }
+    ]
+  },
+  {
+    "qid" : "hp101",
+    "difficulty" : "easy",
+    "question" : "Who is the lead singer of the band U2?",
+    "gold_answer" : "Bono",
+    "context" : [
+      { "title" : "U2", "text" : "U2 is an Irish rock band from Dublin formed in 1976." },
+      { "title" : "Bono", "text" : "Bono is an Irish singer-songwriter and philanthropist, best known as the lead vocalist of U2." }
+    ]
+  },
+  {
+    "qid" : "hp102",
+    "difficulty" : "medium",
+    "question" : "In which city is the Leaning Tower located?",
+    "gold_answer" : "Pisa",
+    "context" : [
+      { "title" : "Leaning Tower of Pisa", "text" : "The Leaning Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa." },
+      { "title" : "Pisa", "text" : "Pisa is a city in the Tuscany region of Central Italy." }
+    ]
+  },
+  {
+    "qid" : "hp103",
+    "difficulty" : "hard",
+    "question" : "What is the capital of the country where the Magna Carta was signed?",
+    "gold_answer" : "London",
+    "context" : [
+      { "title" : "Magna Carta", "text" : "Magna Carta is a royal charter of rights agreed to by King John of England in 1215." },
+      { "title" : "England", "text" : "England is a country that is part of the United Kingdom, with London as its capital." }
+    ]
+  },
+  {
+    "qid" : "hp104",
+    "difficulty" : "easy",
+    "question" : "What is the largest planet in our solar system?",
+    "gold_answer" : "Jupiter",
+    "context" : [
+      { "title" : "Jupiter", "text" : "Jupiter is the fifth planet from the Sun and the largest in the Solar System." },
+      { "title" : "Planet", "text" : "A planet is an astronomical body orbiting a star." }
+    ]
+  },
+  {
+    "qid" : "hp105",
+    "difficulty" : "medium",
+    "question" : "Who painted 'The Scream'?",
+    "gold_answer" : "Edvard Munch",
+    "context" : [
+      { "title" : "The Scream", "text" : "The Scream is the popular name given to a composition created by Norwegian artist Edvard Munch in 1893." },
+      { "title" : "Edvard Munch", "text" : "Edvard Munch was a Norwegian painter and printmaker." }
+    ]
+  },
+  {
+    "qid" : "hp106",
+    "difficulty" : "hard",
+    "question" : "Which sea is located between Europe and Africa?",
+    "gold_answer" : "Mediterranean Sea",
+    "context" : [
+      { "title" : "Mediterranean Sea", "text" : "The Mediterranean Sea is a sea connected to the Atlantic Ocean, surrounded by the Mediterranean Basin." },
+      { "title" : "Geography", "text" : "The Mediterranean Sea separates the continents of Europe and Africa." }
+    ]
+  },
+  {
+    "qid" : "hp107",
+    "difficulty" : "easy",
+    "question" : "What is the capital of France?",
+    "gold_answer" : "Paris",
+    "context" : [
+      { "title" : "France", "text" : "France is a country located in Western Europe." },
+      { "title" : "Paris", "text" : "Paris is the capital and most populous city of France." }
+    ]
+  },
+  {
+    "qid" : "hp108",
+    "difficulty" : "medium",
+    "question" : "Which element has the atomic number 1?",
+    "gold_answer" : "hydrogen",
+    "context" : [
+      { "title" : "Hydrogen", "text" : "Hydrogen is the chemical element with the symbol H and atomic number 1." },
+      { "title" : "Atomic number", "text" : "The atomic number of a chemical element is the number of protons found in the nucleus of every atom of that element." }
+    ]
+  },
+  {
+    "qid" : "hp109",
+    "difficulty" : "hard",
+    "question" : "What is the name of the largest volcano on Mars?",
+    "gold_answer" : "Olympus Mons",
+    "context" : [
+      { "title" : "Mars", "text" : "Mars is the fourth planet from the Sun." },
+      { "title" : "Olympus Mons", "text" : "Olympus Mons is a very large shield volcano on the planet Mars." }
+    ]
+  },
+  {
+    "qid" : "hp110",
+    "difficulty" : "easy",
+    "question" : "Who is the author of 'The Hobbit'?",
+    "gold_answer" : "J. R. R. Tolkien",
+    "context" : [
+      { "title" : "The Hobbit", "text" : "The Hobbit is a children's fantasy novel by J. R. R. Tolkien." },
+      { "title" : "J. R. R. Tolkien", "text" : "John Ronald Reuel Tolkien was an English writer, poet, philologist, and academic." }
+    ]
+  },
+  {
+    "qid" : "hp111",
+    "difficulty" : "medium",
+    "question" : "What is the capital of Canada?",
+    "gold_answer" : "Ottawa",
+    "context" : [
+      { "title" : "Canada", "text" : "Canada is a country in North America." },
+      { "title" : "Ottawa", "text" : "Ottawa is the capital city of Canada." }
+    ]
+  },
+  {
+    "qid" : "hp112",
+    "difficulty" : "hard",
+    "question" : "What is the name of the river that flows through Egypt?",
+    "gold_answer" : "Nile",
+    "context" : [
+      { "title" : "Nile", "text" : "The Nile is a major north-flowing river in northeastern Africa." },
+      { "title" : "Egypt", "text" : "Egypt is a country linked to the Nile River since ancient times." }
+    ]
+  },
+  {
+    "qid" : "hp113",
+    "difficulty" : "easy",
+    "question" : "What is the chemical symbol for water?",
+    "gold_answer" : "H2O",
+    "context" : [
+      { "title" : "Water", "text" : "Water is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance." },
+      { "title" : "Chemical formula", "text" : "The chemical formula for water is H2O, meaning each molecule contains one oxygen and two hydrogen atoms." }
+    ]
   }
 ]
